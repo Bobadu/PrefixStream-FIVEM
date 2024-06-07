@@ -15,3 +15,17 @@
   <li>Speeding up the process of preparing textures and models for streaming.</li>
   <li>Managing large quantities of graphic files and models.</li>
 </ul>
+
+<b>PrefixMaster - Quick Start Guide</b>
+
+<u>Step-by-Step Instructions:</u>
+
+<ol>
+  <li><b>Launch the Program:</b> Open PrefixMaster on your computer.</li>
+  <li><b>Select Folder:</b> Choose the folder containing the <i>ydd</i> and <i>ytd</i> files that you want to process.</li>
+  <li><b>Enter Prefix:</b> Input the desired prefix, such as <i>mpffreemode01</i>, into the prefix field.</li>
+  <li><b>Apply Prefix:</b> The program will automatically add the specified prefix with the caret symbol (^) to each file in the selected folder.</li>
+</ol>
+<u>Example:</u>
+
+<p>If you input the prefix <i>mpffreemode01</i>, the files in the folder will be renamed to look like this: <i>mpffreemode01^accs002uydd</i>.</p>
