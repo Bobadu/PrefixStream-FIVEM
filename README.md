@@ -4,7 +4,7 @@
 <b>Features:</b>
 
 <ul>
-  <li><b>Automatic Prefix Addition:</b> The program allows for quick and efficient addition of prefixes, such as <i>mpffreemode01</i>, to all selected files, significantly speeding up the resource preparation process.</li>
+  <li><b>Automatic Prefix Addition:</b> The program allows for quick and efficient addition of prefixes, such as <i>mp_f_freemode_01</i>, to all selected files, significantly speeding up the resource preparation process.</li>
   <li><b>User-Friendly Interface:</b> The user-friendly interface allows for intuitive and hassle-free use of the program, regardless of the user's technical skill level.</li>
   <li><b>Batch Processing Support:</b> The ability to process multiple files simultaneously saves time and effort.</li>
 </ul>
@@ -23,9 +23,9 @@
 <ol>
   <li><b>Launch the Program:</b> Open PrefixMaster on your computer.</li>
   <li><b>Select Folder:</b> Choose the folder containing the <i>ydd</i> and <i>ytd</i> files that you want to process.</li>
-  <li><b>Enter Prefix:</b> Input the desired prefix, such as <i>mpffreemode01</i>, into the prefix field.</li>
+  <li><b>Enter Prefix:</b> Input the desired prefix, such as <i>mp_f_freemode_01</i>, into the prefix field.</li>
   <li><b>Apply Prefix:</b> The program will automatically add the specified prefix with the caret symbol (^) to each file in the selected folder.</li>
 </ol>
 <u>Example:</u>
 
-<p>If you input the prefix <i>mpffreemode01</i>, the files in the folder will be renamed to look like this: <i>mpffreemode01^accs002uydd</i>.</p>
+<p>If you input the prefix <i>mp_f_freemode_01</i>, the files in the folder will be renamed to look like this: <i>mp_f_freemode_01^accs_002_u.ydd</i>.</p>
