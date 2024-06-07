@@ -1,6 +1,4 @@
 # PrefixStream-FIVEM-
-PrefixMaster - Your Tool for Automatic Prefix Addition!
-
 <b>PrefixMaster - Your Tool for Automatic Prefix Addition!</b>
 
 <b>Features:</b>
